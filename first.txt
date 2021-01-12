@@ -2,3 +2,4 @@ gitの練習用ファイルを作成しました。
 git add
 git commit
 git rm
+git status
